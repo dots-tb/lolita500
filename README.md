@@ -3,7 +3,7 @@
 
 by teakhanirons, dots-tb, marburg, CelesteBlue, SilicaAndPina and CBPS allies.
 
-[CBPS DISCORD SERVER](https://discord.gg/2nDCbxJ)
+[Discord Server](http://discord.cbps.xyz/)
 
 Sets all clocks to max (including 500mhz for CPU) at all times and disables power limits like high brightness and Wi-Fi not working on intensive games.
 
